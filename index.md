@@ -2,9 +2,9 @@
 
 —— Antoine De Saint-Exupery 
 
-> Antoine de Saint-Exupery, who was a French author, journalist（新闻工作者） and pilot（飞行员） wrote The Little Prince in 1943, one year before his death. 
+> Antoine de Saint-Exupery, who was a French author, journalist and pilot wrote The Little Prince in 1943, one year before his death. 
 >
-> The Little Prince appears to be a simple children’s tale（故事）, some would say that it is actually a profound（意义深远的） and deeply moving tale, written in riddles（谜语） and laced（系带的） with philosophy（哲学） and poetic metaphor（诗歌隐喻）. 
+> The Little Prince appears to be a simple children’s tale, some would say that it is actually a profound and deeply moving tale, written in riddles and laced with philosophy and poetic metaphor. 
 
 Once when I was six years old I saw a magnificent picture in a book, called True Stories from 
 Nature, about the primeval forest. It was a picture of a boa constrictor in the act of swallowing an 
