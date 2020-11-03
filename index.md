@@ -14,4 +14,4 @@ I ask the indulgence of the children who may read this book for dedicating it to
 >
 >when he was a little bo
 
-1. [Chapter 1](./01.md)
+- [Chapter 1](./01.md)
