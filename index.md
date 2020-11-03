@@ -1,4 +1,8 @@
 
+# The Little Prince
+
+小王子
+
 ## Antoine De Saint-Exupery 
 
 Antoine de Saint-Exupery, who was a French author, journalist and pilot wrote The Little Prince in 1943, one year before his death. 
@@ -9,6 +13,6 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 
 《小王子》作为简单的童话故事问世，很多人却说《小王子》是一个意义深远和令人感动的故事，有很多迷一样隐喻，富有诗意和哲学意味。
 
-## Contents
+## Tables of Contents
 
 - [Chapter 1](chapter/01.md)
