@@ -1,9 +1,5 @@
 
-# The Little Prince
-
-小王子
-
-## Antoine De Saint-Exupery 
+## The Little Prince
 
 Antoine de Saint-Exupery, who was a French author, journalist and pilot wrote The Little Prince in 1943, one year before his death. 
 
