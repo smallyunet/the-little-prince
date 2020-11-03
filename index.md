@@ -3,7 +3,11 @@
 
 Antoine de Saint-Exupery, who was a French author, journalist and pilot wrote The Little Prince in 1943, one year before his death. 
 
+Antoine de Saint-Exupery 是一位法国作家，同时也是记者、飞行员，他在 1943 年写下《小王子》，那是他去世的前一年。
+
 The Little Prince appears to be a simple children’s tale, some would say that it is actually a profound and deeply moving tale, written in riddles and laced with philosophy and poetic metaphor. 
+
+《小王子》作为简单的童话故事问世，很多人却说《小王子》是一个意义深远和令人感动的故事，有很多迷一样隐喻，并且富有诗意以及哲学意味。
 
 ## To Leon Werth
 
