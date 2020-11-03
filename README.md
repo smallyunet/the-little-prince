@@ -1,1 +1,1 @@
-https://smallyunet.github.io/the-little-prince/
+The Little Prince
