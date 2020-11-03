@@ -1,5 +1,5 @@
 
-## Introduce
+## The Little Prince
 
 Antoine de Saint-Exupery, who was a French author, journalist and pilot wrote The Little Prince in 1943, one year before his death. 
 
@@ -12,3 +12,8 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 ## Table of Contents
 
 - [Chapter 1](chapter/01.md)
+- [Chapter 2](chapter/02.md)
+
+## Appendix
+
+《小王子》有很多版本，主线故事是一致的，具体语句会不同。意会就好。这里面夹杂的中文，只是在阅读过程中随便翻译两句，没别的意思……
