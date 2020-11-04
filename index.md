@@ -19,7 +19,8 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 - [Chapter 4](chapter/04.md) （B-612星球）
 - [Chapter 5](chapter/05.md) （可怕的树）
 - [Chapter 6](chapter/06.md) （44 次日落）
-- [Chapter 7](chapter/07.md) （）
+- [Chapter 7](chapter/07.md) （花的刺）
+- [Chapter 8](chapter/08.md) （）
 
 ## Appendix
 
