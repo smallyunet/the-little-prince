@@ -13,9 +13,9 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 
 ## Table of Contents
 
-- [Chapter 1](chapter/01.md) （一个孤独的人）
-- [Chapter 2](chapter/02.md) （初次相遇）
-- [Chapter 3](chapter/03.md) （身世之迷）
+- [Chapter 1](chapter/01.md) 一个孤独的人
+- [Chapter 2](chapter/02.md) 初次相遇
+- [Chapter 3](chapter/03.md) 身世之迷
 - [Chapter 4](chapter/04.md)
 - [Chapter 5](chapter/05.md)
 
