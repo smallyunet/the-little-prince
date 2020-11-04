@@ -21,6 +21,8 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 - [Chapter 6](chapter/06.md) （44 次日落）
 - [Chapter 7](chapter/07.md) （花的刺）
 - [Chapter 8](chapter/08.md) （玫瑰花）
+- [Chapter 9](chapter/09.md) （）
+- [Chapter 10](chapter/10.md) （）
 
 ## Appendix
 
