@@ -15,3 +15,8 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 
 - [Chapter 1](chapter/01.md)
 - [Chapter 2](chapter/02.md)
+
+## Appendix
+
+PDF Version Download: [The_Little_Prince.pdf](./appendix/The_Little_Prince.pdf)
+
