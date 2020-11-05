@@ -23,7 +23,7 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 - [Chapter 8](chapter/08.md) （玫瑰花）
 - [Chapter 9](chapter/09.md) （离别）
 - [Chapter 10](chapter/10.md) （老国王）
-- [Chapter 11](chapter/11.md) （）
+- [Chapter 11](chapter/11.md) （自负的人）
 - [Chapter 12](chapter/12.md) （）
 - [Chapter 13](chapter/13.md) （）
 - [Chapter 14](chapter/14.md) （）
