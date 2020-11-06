@@ -27,7 +27,7 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 - [Chapter 12](chapter/12.md) （酒鬼）
 - [Chapter 13](chapter/13.md) （商人）
 - [Chapter 14](chapter/14.md) （点灯人）
-- [Chapter 15](chapter/15.md) （）
+- [Chapter 15](chapter/15.md) （老绅士）
 - [Chapter 16](chapter/16.md) （）
 - [Chapter 17](chapter/17.md) （）
 - [Chapter 18](chapter/18.md) （）
