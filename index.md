@@ -32,7 +32,7 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 - [Chapter 17](chapter/17.md) （蛇）
 - [Chapter 18](chapter/18.md) （花）
 - [Chapter 19](chapter/19.md) （山）
-- [Chapter 20](chapter/20.md) （）
+- [Chapter 20](chapter/20.md) （玫瑰园）
 - [Chapter 21](chapter/21.md) （）
 - [Chapter 22](chapter/22.md) （）
 - [Chapter 23](chapter/23.md) （）
