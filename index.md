@@ -38,8 +38,8 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 - [Chapter 23](chapter/23.md) （商人）
 - [Chapter 24](chapter/24.md) （井）
 - [Chapter 25](chapter/25.md) （一周年）
-- [Chapter 26](chapter/26.md) （）
-- [Chapter 27](chapter/27.md) （）
+- [Chapter 26](chapter/26.md) （离别）
+- [Chapter 27](chapter/27.md) （小男孩）
 
 ## Appendix
 
