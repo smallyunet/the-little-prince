@@ -36,7 +36,7 @@ The Little Prince appears to be a simple children’s tale, some would say that 
 - [Chapter 21](chapter/21.md) （小狐狸）
 - [Chapter 22](chapter/22.md) （铁路调车工）
 - [Chapter 23](chapter/23.md) （商人）
-- [Chapter 24](chapter/24.md) （）
+- [Chapter 24](chapter/24.md) （井）
 - [Chapter 25](chapter/25.md) （）
 - [Chapter 26](chapter/26.md) （）
 - [Chapter 27](chapter/27.md) （）
